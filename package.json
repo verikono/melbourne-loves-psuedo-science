@@ -1,0 +1,21 @@
+{
+	"name": "melbourne-loves-psuedo-science",
+	"displayName": "ILoveThePythonicGIL",
+	"description": "The only place on earth you'll be able to watch the national broadcaster tell you to shut the F up and go make pasta",
+	"version": "0.0.1",
+	"engines": {
+		"vscode": "^1.73.0"
+	},
+	"categories": [
+		"Themes"
+	],
+	"contributes": {
+		"themes": [
+			{
+				"label": "MelbourneLovesPsuedoScience",
+				"uiTheme": "vs-dark",
+				"path": "./themes/pythonic-color-theme.json"
+			}
+		]
+	}
+}
